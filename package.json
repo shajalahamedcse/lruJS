@@ -1,0 +1,19 @@
+{
+  "name": "lrujs",
+  "version": "1.0.0",
+  "description": "A finite key-value cache using the Least Recently Used (LRU) cache algorithm where the most recently used objects are keept in cache while less recently used items are purged.",
+  "main": "lru.js",
+  "dependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lru",
+    "node"
+  ],
+  "author": "shajalahamedcse@gmail.com",
+  "license": "ISC"
+}
